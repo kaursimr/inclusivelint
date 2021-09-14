@@ -1,5 +1,6 @@
 name: inclusivelint-ci
 
+
 on:
   push:
     branches: [ main ]
